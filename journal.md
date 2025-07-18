@@ -25,6 +25,7 @@ added the raspi 3.5 inch scfreen it had no fot print has tri create customtook a
 
 i need to add the l 1l2 rf1 r2 on top as putting them on main pch makes no sense safter some reserch and work incan dividne use rigt angled headers to achievee the same
 <img width="240" height="385" alt="image" src="https://github.com/user-attachments/assets/11712d55-3e66-47e0-a6f2-9200187d67c0" />
+<img width="1563" height="778" alt="image" src="https://github.com/user-attachments/assets/f8f553a6-9a60-41f6-98eb-a5a4013ccd4d" /> now the top button pael will be cut and put on top lipe psx buttons
 
 
 time speant -6 hrs
