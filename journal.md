@@ -18,7 +18,16 @@ right wiring add resst of buttons-<img width="1919" height="776" alt="image" src
 14 pins added rightly-<img width="1489" height="776" alt="image" src="https://github.com/user-attachments/assets/7b522fc8-029c-4cc8-adc8-5bddea8a10b8" />
 
 wirinf got messed up-<img width="1623" height="797" alt="image" src="https://github.com/user-attachments/assets/954267e1-f7b4-46ff-8540-5e3186eb67f9" />
-time speant -4 hrs
+
+added the raspi 3.5 inch scfreen it had no fot print has tri create customtook an hour 
+<img width="240" height="385" alt="image" src="https://github.com/user-attachments/assets/8e4ab88d-36d8-4481-84fd-0af021c75f24" />
+<img width="1763" height="820" alt="image" src="https://github.com/user-attachments/assets/bf78bc72-2842-488b-8d04-eb17afb573ab" />
+
+i need to add the l 1l2 rf1 r2 on top as putting them on main pch makes no sense safter some reserch and work incan dividne use rigt angled headers to achievee the same
+<img width="240" height="385" alt="image" src="https://github.com/user-attachments/assets/11712d55-3e66-47e0-a6f2-9200187d67c0" />
+
+
+time speant -6 hrs
 
 
 
