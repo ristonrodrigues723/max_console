@@ -15,5 +15,12 @@ so if i want to emulate psx i need 18 buttons aND adc chip which wont work with 
 
 right wiring add resst of buttons-<img width="1919" height="776" alt="image" src="https://github.com/user-attachments/assets/cff27e97-1199-49af-af06-6e7b3a08ec6e" />
 
+14 pins added rightly-<img width="1489" height="776" alt="image" src="https://github.com/user-attachments/assets/7b522fc8-029c-4cc8-adc8-5bddea8a10b8" />
+
+wirinf got messed up-<img width="1623" height="797" alt="image" src="https://github.com/user-attachments/assets/954267e1-f7b4-46ff-8540-5e3186eb67f9" />
+time speant -4 hrs
+
+
+
 
 
