@@ -54,6 +54,8 @@ added the right routing both l1 l2 r1 r2 will be on top side by sidce will make 
 <img width="1847" height="661" alt="image" src="https://github.com/user-attachments/assets/d6091a32-901f-404a-9acb-f68a013b779b" />
 
 ok new realizarion cant as the pi zero directly below the screen ading it belo the pcb will increae consile sixe woll ned to change placemntd
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/52545b81-9795-4f76-9c09-a1ecd32941c9" />
+priblem make it compact vs longer
 
 time spent 4 hrs
 
