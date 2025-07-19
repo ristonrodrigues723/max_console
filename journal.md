@@ -35,6 +35,29 @@ made right sdjustment it is 2 cm bif noe man just shouldnt get too ugly
 
 time speant -6 hrs
 
+day 2 19/7/25
+task- exact placemtn of the components additonl button addition and placement , getting the dimensions right
+<img width="1919" height="812" alt="image" src="https://github.com/user-attachments/assets/0a43b18c-6d88-4040-908a-b97ba46e58e0" />
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/171ebb31-0b3d-4853-9a01-da7df9ebdc86" />
+<img width="1916" height="795" alt="image" src="https://github.com/user-attachments/assets/5ab80d33-5cc8-414f-9755-1d43e5f9f683" />
+
+added the place and made right adjustments for lcd plkacements<img width="1919" height="742" alt="image" src="https://github.com/user-attachments/assets/6999ecd8-2c9a-4997-9300-a3c76532641c" />
+
+added the right dimensions and arrangd the components these need to be placed rightly to gibe it correctly feel manually adjusting the coordinates-<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/072045d7-15ec-4540-b328-0cb5dc372997" />
+
+<img width="1915" height="816" alt="image" src="https://github.com/user-attachments/assets/d0c159d9-e26f-4303-8c80-0521f494f14c" />
+got the exact right dshape next task adding remaining buttons
+<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/1a9a4e9d-0228-42d9-aef7-8d9633ab8da7" />
+
+time spent 3 hrs
+
+
+
+
+
+
+
+
 
 
 
