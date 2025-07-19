@@ -48,7 +48,9 @@ added the right dimensions and arrangd the components these need to be placed ri
 <img width="1915" height="816" alt="image" src="https://github.com/user-attachments/assets/d0c159d9-e26f-4303-8c80-0521f494f14c" />
 got the exact right dshape next task adding remaining buttons
 <img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/1a9a4e9d-0228-42d9-aef7-8d9633ab8da7" />
-
+was loing for attries and good barrries flat ones dont exkist most are cheap ripoffs cant use cylindrical as theyll mess up the most of things
+will have to use 2 of 3.7V LiPo Batteries - BIS High Quality 20 it brings thr bil up by 10dollars
+added the right routing both l1 l2 r1 r2 will be on top side by sidce will make the console more compact
 time spent 3 hrs
 
 
