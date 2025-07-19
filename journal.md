@@ -51,7 +51,11 @@ got the exact right dshape next task adding remaining buttons
 was loing for attries and good barrries flat ones dont exkist most are cheap ripoffs cant use cylindrical as theyll mess up the most of things
 will have to use 2 of 3.7V LiPo Batteries - BIS High Quality 20 it brings thr bil up by 10dollars
 added the right routing both l1 l2 r1 r2 will be on top side by sidce will make the console more compact
-time spent 3 hrs
+<img width="1847" height="661" alt="image" src="https://github.com/user-attachments/assets/d6091a32-901f-404a-9acb-f68a013b779b" />
+
+ok new realizarion cant as the pi zero directly below the screen ading it belo the pcb will increae consile sixe woll ned to change placemntd
+
+time spent 4 hrs
 
 
 
