@@ -74,6 +74,9 @@ i addedte tp4056 , mt booster battderis pins to yhe schematic and pcb
 
 connecte the charging and battery protectgion to sdpt to power on off then booster to the main circut.
 
+<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/9baa7d47-55df-4d47-b3cb-2ed4e660ab73" />
+
+
 
 
 
