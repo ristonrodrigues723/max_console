@@ -79,7 +79,16 @@ connecte the charging and battery protectgion to sdpt to power on off then boost
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/695f9c86-e0df-42eb-894b-df10abfe4dc5" />
 corecting the c onnections
 <img width="1502" height="667" alt="image" src="https://github.com/user-attachments/assets/6ef604de-e51c-4998-a78c-ca237d0f3753" />
-time spent 3 hrs
+
+wired the correct rest home vol and hold butonds
+<img width="1915" height="884" alt="image" src="https://github.com/user-attachments/assets/8e24702e-6dcf-438e-94f3-5f305fa289d2" />
+
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/72a98b9f-0f06-4c4f-962c-c7e0c40ee9d9" />
+coonnected reserched the pwm circut need to reroute some paths and tgings
+
+
+
+time spent 5 hrs
 
 
 
