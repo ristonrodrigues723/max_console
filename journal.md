@@ -86,6 +86,7 @@ wired the correct rest home vol and hold butonds
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/72a98b9f-0f06-4c4f-962c-c7e0c40ee9d9" />
 coonnected reserched the pwm circut need to reroute some paths and tgings
 
+<img width="1760" height="804" alt="image" src="https://github.com/user-attachments/assets/84a530cc-a6b1-4b11-8672-08806d0aa772" />rewired wire the pam
 
 
 time spent 5 hrs
