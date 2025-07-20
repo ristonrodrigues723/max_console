@@ -88,6 +88,8 @@ coonnected reserched the pwm circut need to reroute some paths and tgings
 
 <img width="1760" height="804" alt="image" src="https://github.com/user-attachments/assets/84a530cc-a6b1-4b11-8672-08806d0aa772" />rewired wire the pam
 
+found added right speajkers
+everything except the touch screen for nintendo consoles is done<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/fbbcf991-a168-4990-92a0-19f701e75d53" />
 
 time spent 5 hrs
 
