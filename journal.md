@@ -76,6 +76,13 @@ connecte the charging and battery protectgion to sdpt to power on off then boost
 
 <img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/9baa7d47-55df-4d47-b3cb-2ed4e660ab73" />
 
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/695f9c86-e0df-42eb-894b-df10abfe4dc5" />
+corecting the c onnections
+<img width="1502" height="667" alt="image" src="https://github.com/user-attachments/assets/6ef604de-e51c-4998-a78c-ca237d0f3753" />
+time spent 3 hrs
+
+
+
 
 
 
