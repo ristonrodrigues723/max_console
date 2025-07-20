@@ -61,6 +61,23 @@ increased theight by a few cm cut its not that thick
 
 time spent 5 hrs
 
+day 3 20/7/25
+
+adding the tppy4056 charging module boost converter battries placenmt , i reserched and theres no way i could place the raspi below 5he 3.5 inc lcb placing it on opp side of the board increases board height by 2-3 cm and it destryos compactnes compeletely so stuck what to do more
+so i increased the length by 8 cm
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/3c967158-f6b3-47e9-813c-ebd622582f64" />
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/c5859b8b-7343-4188-a487-98b65ef50f3b" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/ee035f7c-e6c3-4def-9dc5-badf758bede1" /> the module i think i shouls increase the body part rounf scre to make it symmetric
+
+i addedte tp4056 , mt booster battderis pins to yhe schematic and pcb
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/9e2372ba-0188-4075-af56-119947f80ca5" />
+
+connecte the charging and battery protectgion to sdpt to power on off then booster to the main circut.
+
+
+
+
+
 
 
 
