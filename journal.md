@@ -117,8 +117,12 @@ the case upper part
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/4bdec599-e987-4a9e-931b-3da3b79ea858" />
 addee upper lower case parts extrudes fot both usc b top lil2 buttons
 removed thr derived gavce to correct each indvivdaul sketch<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/4ded48af-648d-49b0-b70e-79a66a6b297e" />
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/af8d6286-2e74-4e33-b0c3-7019b4c612da" />
+<img width="1907" height="841" alt="image" src="https://github.com/user-attachments/assets/7bac863d-ca07-4bac-8733-c2f9668993fe" />
+fotgot yhr buttons<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/e3ddd861-277d-4b51-9c56-9b2698218676" />
 
-total time 7hrs
+
+total time 8hrs
 
 
 
