@@ -104,7 +104,10 @@ now the task is crrating approprite case the budget is going above 100 bom is be
 boolen 2 to smoothe render derived board****<img width="1915" height="831" alt="image" src="https://github.com/user-attachments/assets/d5fa272f-5c67-4d6f-a922-0e9bf8a3e963" />
 shiftd jsxt to nbotom rerouted the nets and paths, fixed 6,, buttons
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/e1a2d8f7-d1eb-4592-8f7a-0f42850730fb" />
-total time 2 hrs
+
+importrd correct model now cadsde design begins found 2-3 erroes in netlist-<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/303c3bae-9789-4174-855e-0b027ac81624" />
+
+total time 3 hrs
 
 
 
