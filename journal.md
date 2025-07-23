@@ -101,6 +101,12 @@ now the task is crrating approprite case the budget is going above 100 bom is be
 
 <img width="1421" height="608" alt="image" src="https://github.com/user-attachments/assets/0ab6506a-86ef-4193-9be1-4d31a4e3e402" />
 
+boolen 2 to smoothe render derived board****<img width="1915" height="831" alt="image" src="https://github.com/user-attachments/assets/d5fa272f-5c67-4d6f-a922-0e9bf8a3e963" />
+shiftd jsxt to nbotom rerouted the nets and paths, fixed 6,, buttons
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/e1a2d8f7-d1eb-4592-8f7a-0f42850730fb" />
+total time 2 hrs
+
+
 
 
 
