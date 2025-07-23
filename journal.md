@@ -107,7 +107,16 @@ shiftd jsxt to nbotom rerouted the nets and paths, fixed 6,, buttons
 
 importrd correct model now cadsde design begins found 2-3 erroes in netlist-<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/303c3bae-9789-4174-855e-0b027ac81624" />
 
-total time 3 hrs
+really bad mirroring<img width="1847" height="797" alt="image" src="https://github.com/user-attachments/assets/97061cf4-0733-47f7-aa2c-39f2f064d7a2" />
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/af791d2c-bbce-4774-8c0b-5ea6050021c0" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/09e9d394-3384-40c8-a6f9-1dbbf53120ed" />
+ toip cover<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/77962b9c-6b39-4d2c-b663-01aa6d92d986" />
+
+<img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/cf36fd58-73cd-4fc8-ba1c-67cb691c0358" />
+the case upper part
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/4bdec599-e987-4a9e-931b-3da3b79ea858" />
+addee upper lower case parts extrudes fot both usc b top lil2 buttons
+total time 7hrs
 
 
 
