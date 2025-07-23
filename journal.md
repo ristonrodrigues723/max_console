@@ -116,6 +116,8 @@ really bad mirroring<img width="1847" height="797" alt="image" src="https://gith
 the case upper part
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/4bdec599-e987-4a9e-931b-3da3b79ea858" />
 addee upper lower case parts extrudes fot both usc b top lil2 buttons
+removed thr derived gavce to correct each indvivdaul sketch<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/4ded48af-648d-49b0-b70e-79a66a6b297e" />
+
 total time 7hrs
 
 
