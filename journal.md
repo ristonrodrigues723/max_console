@@ -93,6 +93,16 @@ everything except the touch screen for nintendo consoles is done<img width="1919
 
 time spent 5 hrs
 
+day 5 23/7/25
+
+tasks done added the righrt 134mil holes on 4 sides of pcb to fir ti in case
+binded all 3d model as neded
+now the task is crrating approprite case the budget is going above 100 bom is best optimized man hope it doesnt getr fckd too bad as the highway accc has no mony left
+
+<img width="1421" height="608" alt="image" src="https://github.com/user-attachments/assets/0ab6506a-86ef-4193-9be1-4d31a4e3e402" />
+
+
+
 
 
 
