@@ -1,7 +1,10 @@
 what the project is- a console running on raspi 02w running retopie which when overclocked should be able to emulate most old conslote games
-waas entriely designed and done by me , includes amplifier and good speakers for immersive sound, 
+waas entriely designed and done by me , includes amplifier and good speakers for immersive sound.
+
 what it does- emulates most old retrogames 
+
 time spent yet -24
+
 cost of the project-110 dollars
 
 day-18/7/25
