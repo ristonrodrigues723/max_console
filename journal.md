@@ -1,4 +1,8 @@
-so this is my take on a personalised console creted using retropie wont be able to do kost of code unles i get the the components but ill do the adafruit script for button switch allociation 
+what the project is- a console running on raspi 02w running retopie which when overclocked should be able to emulate most old conslote games
+waas entriely designed and done by me , includes amplifier and good speakers for immersive sound, 
+what it does- emulates most old retrogames 
+time spent yet -24
+cost of the project-110 dollars
 
 day-18/7/25
 
