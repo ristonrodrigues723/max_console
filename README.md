@@ -46,7 +46,7 @@ already spemt 25+ hrs will ned to speand a total of  40+ hrs
 
 | Item | Price (INR approx.) | Price (USD) | Status | Notes |
 | :------------------------------- | :------------------ | :---------- | :----- | :---------------------------------- |
-| Buffer for Price Increase/Stockout | ₹668.80 | $8.00 | Needed | will be returned back to hc if no incresase |
+| Buffer for Price Increase/Stockout | ₹668.80 | $8.00 | Needed | damn currency conversion of 3percent charged by most retailers, plas biffer if not woulfd be returned |
 | Shipping Fees | ₹250.80 | $3.00 | Needed | would be saved and returned |
 
 ---
@@ -59,7 +59,9 @@ already spemt 25+ hrs will ned to speand a total of  40+ hrs
 | **$USD** | **$120.27** |
 
 ---
-*Note: USD prices are approximate, based on a current conversion rate of 1 USD = 83.6 INR. Actual exchange rates may vary. GST is included only for items explicitly stated to be from Silverline Electronics. All other prices are as provided or at their base rate.*
+if the rate of dollar to inr ids more the rest of money cold be returned to hc,
+didnt recieve my raspi from raspapi ysws which gavr the participants local raspberrypi 0 2w , now it would have saved hc the price of that 0 2w no ides when i could get it .
+
 
 some reatilers offer free shiping others still ask 1-2 dollars that the buffer for it
 i didnt get thr raspi zero from old ysws , compeleted it could have saved hc some money but its still stuck in limbo
