@@ -3,7 +3,7 @@ When overclocked(necessary for psp), this console should be able to emulate most
 I am currently setting up the code for the buttons. My design incorporates 18-20 buttons, similar to a PSP, allowing for accurate emulation of those games. By utilizing the Adafruit button script for RetroPie, I anticipate being able to configure controls for most other consoles as well.
 The touch functionality will be specifically for Nintendo DS emulation
 
-already spemt 25+ hrs will ned to speand a total of  40+ hrs
+already spemt 30+ hrs will ned to speand a total of  50+ hrs
 ## Combined Bill of Materials (BOM)
 
 | Component Name | Quantity | Price (INR incl. GST) | Price (USD approx.) | Link | Status |
