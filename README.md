@@ -29,19 +29,19 @@ already spemt 30+ hrs will ned to speand a total of  50+ hrs
 | UNI-T UT33D+ Digital Multi-meter | 1 | ₹875.00 | $10.47 | https://www.amazon.in/UNI-T-UT33D-Digital-Multi-meter-Manual/dp/B08W36VF6H/ref=pd_vtp_h_pd_vtp_h_d_sccl_2/262-9085288-8324515?pd_rd_w=pTEzb&content-id=amzn1.sym.6c9a4279-ad42-4fd6-b9a9-3cd14ede34c9&pf_rd_p=6c9a4279-ad42-4fd6-b9a9-3cd14ede34c9&pf_rd_r=AQWFZQ9FFMCHDGND0GQA&pd_rd_wg=gIHq2&pd_rd_r=2e92b59a-4cb2-4ed3-ab7a-7e505bb798a0&pd_rd_i=B08W36VF6H&psc=1 | Needed |
 | M3 10mm SS Screws (25 Pcs) | 1 | ₹83.60 | $1.00 | https://roboticsdna.in/product/m3-10mm-stainless-steel-screws-25-pieces/?src=google&kwd=&adgroup={adgroup}&device=c&campaign={campaign}&adgroup={adgroup}&keyword=&matchtype=&gad_source=1&gad_campaignid=22411741198&gbraid=0AAAAAC-xzeFYu4l4B2scm_19-MkV-ks1J&gclid=Cj0KCQjwkILEBhDeARIsAL--pjwVTMkqiyYBPgPZLET7SitmR4p4i6frF9hqcwMqjGWH6tK9m9Dq7pEaAnWKEALw_wcB | Needed |
 | M3 Nuts SS (25 Pieces) | 1 | ₹35.40 | $0.42 | https://roboticsdna.in/product/m3-nuts-ss-25-pieces/?src=google&kwd=&adgroup={adgroup}&device=c&campaign={campaign}&adgroup={adgroup}&keyword=&matchtype=&gad_source=1&gad_campaignid=22411741198&gbraid=0AAAAAC-xzeHWsnFWhIbOm4RUnes1mhqz-&gclid=Cj0KCQjws4fEBhD-ARIsACC3d29MrUHuIXUFcil_X6_c8k6od2TpDrRg1q5CwJTiWuMUcHyvGuRSuj0aAh2yEALw_wcB | Needed |
-| Hookup Wire (Stranded Assortment) | 1 | ₹150.00 | $1.79 | *N/A (Common Component)* | Needed |
+| Hookup Wire (Stranded Assortment) | 1 | ₹150.00 | $1 | https://robocraze.com/products/single-stranded-hook-up-wires-1m-each-5-colors?srsltid=AfmBOoqwFa3g8SX5PLC2WNktVa1ystMON1lj5UkYMlXENyAVaXmho1n-| Needed |
 | 0.1mm Copper Soldering Solder PPA Enamelled Repair Reel Wire | 1 | ₹25.00 | $0.30 | https://roboticsdna.in/product/0-1mm-copper-soldering-solder-ppa-enamelled-repair-reel-wire/?src=google&kwd=&adgroup={adgroup}&device=c&campaign={campaign}&adgroup={adgroup}&keyword=&matchtype=&gad_source=1&gad_campaignid=22411741198&gbraid=0AAAAAC-xzeGXH678XaKVPbIhi9RKIVnVo&gclid=CjwKCAjw1ozEBhAdEiwAn9qbzd7ZAGkXTHaefr0acwciKOwB2wPFmYPZcgyTDhQEBKUefTSgr7LeAxoCFvQQAvD_BwE | Needed |
 | 40x2 Female Berg Strip | 3 | ₹51.00 | $0.61 | https://robocraze.com/products/40x2-female-berg-strip?_pos=2&_psq=berg&_ss=e&_v=1.0 | Needed |
 | 40x2 Pin 2.54mm Pitch Male Berg Strip | 3 | ₹27.00 | $0.32 | https://robocraze.com/products/40x2-pin-2-54mm-pitch-male-berg-strip?_pos=5&_psq=berg&_ss=e&_v=1.0 | Needed |
 | Desoldering Wick | 2 | ₹28.00 | $0.33 | https://robocraze.com/products/desoldering-wick?pr_prod_strat=e5_desc&pr_rec_id=5577d3441&pr_rec_pid=8058430128352&pr_ref_pid=8875386568928&pr_seq=uniform | Needed |
 | Noel Soldering Flux Paste 10gm | 1 | ₹22.00 | $0.26 | https://robocraze.com/products/noel-soldering-flux-paste-10gm-pack-yellow?pr_prod_strat=jac&pr_rec_id=5577d3441&pr_rec_pid=8875387945184&pr_ref_pid=8875386568928&pr_seq=uniform | Needed |
-| Heat Shrink Tubing | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
+| Heat Shrink Tubing | 6-7 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
 | Desoldering Tool (Pump) | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
 | Soldering Iron | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
-| USB Cables | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
-| Precision Screwdrivers | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
+| USB Cables-b and c | 2 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
+| Precision Screwdrivers set | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
 | Multi-screwdriver | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
-| Hot Glue Gun/Glue Sticks | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
+| Hot Glue Gun and Glue Sticks | 1 | ₹0.00 | $0.00 | Owned/Pre-owned | Owned/Pre-owned |
 
 ---
 
@@ -49,8 +49,8 @@ already spemt 30+ hrs will ned to speand a total of  50+ hrs
 
 | Item | Price (INR approx.) | Price (USD) | Status | Notes |
 | :------------------------------- | :------------------ | :---------- | :----- | :---------------------------------- |
-| Buffer for Price Increase/Stockout | ₹668.80 | $8.00 | Needed | damn currency conversion of 3percent charged by most retailers, plas biffer if not woulfd be returned |
-| Shipping Fees | ₹250.80 | $3.00 | Needed | would be saved and returned |
+| Buffer for Price Increase/Stockout | ₹668.80 | $8.00 | Needed | damn currency conversion of 3percent charged by most retailers, if not woulfd be returned to hc |
+| Shipping Fees | ₹250.80 | $3.00 | Needed | would be saved if not used and returned |
 
 ---
 
@@ -59,7 +59,7 @@ already spemt 30+ hrs will ned to speand a total of  50+ hrs
 | Currency | Amount |
 | :------- | :----- |
 | **INR** | **₹10,054.80** |
-| **$USD** | **$120.27** |
+| **$USD** | **$119** |
 
 ---
 if the rate of dollar to inr ids more the rest of money cold be returned to hc,
