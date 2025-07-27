@@ -6,7 +6,7 @@ Created at: 27/7/25
 
 what it does- adds better sound to the retro console using amplifier chip, sdesigned for psx psp games should un psp gsmes when pi is overclocked
 
-time spent yet -24
+Total time speant-30+ total time required -50hrs
 
 cost of the project-120 dollars
 
