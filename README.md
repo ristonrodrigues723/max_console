@@ -74,3 +74,5 @@ pcb-<img width="1864" height="662" alt="image" src="https://github.com/user-atta
 
 3d pcb<img width="1441" height="716" alt="image" src="https://github.com/user-attachments/assets/22799e19-1980-4801-b9bb-25a944068e4d" />
 
+case-<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/41b728ac-7a07-4841-b24e-aa8da5a9d699" />
+
