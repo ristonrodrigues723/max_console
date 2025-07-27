@@ -1,7 +1,10 @@
-what the project is- a console running on raspi 02w running retopie which when overclocked should be able to emulate most old conslote games
+Title: Maximum retro console 
+Author: Riston Rodrigues 
+Description: this is a  a console running on raspi 02w running retopie which when overclocked should be able to emulate most old conslote games
 waas entriely designed and done by me , includes amplifier and good speakers for immersive sound.
+Created at: 27/7/25
 
-what it does- emulates most old retrogames 
+what it does- adds better sound to the retro console using amplifier chip, sdesigned for psx psp games should un psp gsmes when pi is overclocked
 
 time spent yet -24
 
