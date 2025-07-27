@@ -5,7 +5,7 @@ what it does- emulates most old retrogames
 
 time spent yet -24
 
-cost of the project-110 dollars
+cost of the project-120 dollars
 
 day-18/7/25
 
@@ -122,14 +122,64 @@ really bad mirroring<img width="1847" height="797" alt="image" src="https://gith
 <img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/cf36fd58-73cd-4fc8-ba1c-67cb691c0358" />
 the case upper part
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/4bdec599-e987-4a9e-931b-3da3b79ea858" />
-addee upper lower case parts extrudes fot both usc b top lil2 buttons
-removed thr derived gavce to correct each indvivdaul sketch<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/4ded48af-648d-49b0-b70e-79a66a6b297e" />
+addeed upper /lower case parts extrudes fot both usb-c top l1 ,l2 buttons
+removed thr derived pcb to correct each indvivdaul sketch<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/4ded48af-648d-49b0-b70e-79a66a6b297e" />
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/af8d6286-2e74-4e33-b0c3-7019b4c612da" />
 <img width="1907" height="841" alt="image" src="https://github.com/user-attachments/assets/7bac863d-ca07-4bac-8733-c2f9668993fe" />
 fotgot yhr buttons<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/e3ddd861-277d-4b51-9c56-9b2698218676" />
 
 
 total time 8hrs
+
+day 27/7/25
+tasks-fixed the entire bom, added right links to bom, tored to find cheapest alternatives but the biggest problems id non acceptane og hcb and aliexpress doesnt dielever at my place
+
+the buttons for the d pad and the o x A keys im did them<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/e7b5564a-1b88-423e-b004-a34a16acda6f" />
+
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/efdc322b-ddcf-4e9a-a0f2-0bb5910164ab" />
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/c67cf495-9e87-4553-807f-dda9f54b6c9f" />
+
+too slow lagginf on my old laptop<img width="1919" height="840" alt="image" src="https://github.com/user-attachments/assets/9547ce39-0606-49be-a74b-641c38b23c42" />
+
+the button finishwed tge basic shaoe for that<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/b0a8f7a2-36fd-4348-b0ae-60cd131a0eae" />
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/5836f84e-1920-47dc-a982-95dfbab5b375" />
+the deriving cobsole didnt work- new thinga to dpo-<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/afff47f0-9e5a-4f77-8de0-839fe818d868" />
+
+
+just too slow-<img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/5e4fa0b1-1682-46c3-9c09-ef6cea422079" />
+came to know that wculd hidce individcual patrs of cad many this savesso much time<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/bac9a357-2853-4694-a268-ef299d9a2b00" />
+
+extrusuin to match shell thcckness-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/e778014c-e6de-458f-9dca-7b3c3b83d953" />
+
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/09f00d81-6ddb-4ec1-9807-41aae071ad7f" />
+the other symbol pad finished-<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/25c6af6a-d8be-44af-b821-9c54273bc8f6" />
+
+finished thre right pd-<img width="983" height="396" alt="image" src="https://github.com/user-attachments/assets/a0b0d933-f133-4983-a8f5-f04dc321d392" />
+
+a problem with the derived sketchd as i try to get them thsurpress the below things they get messedup
+
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/fb037572-408a-427f-81ec-57f4edaf9c6b" />
+finished d pad-<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/2a930b89-806e-4051-8424-5d3e055c308b" />
+
+
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/8e08781a-9f25-4a06-a0e6-bb238f640dd4" />
+
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/b0fc40ea-d767-44aa-ad00-9de6efa6a272" />
+errors when i asembe the whols case gotta fix that
+
+ok i exported the leftpad and right pad imported and problem solved
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/66962503-c343-4eb5-9092-3d4766611f64" />
+
+final assemblu unitl oi hey the board -<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/f46d191b-9914-49d4-89b7-f548ec49a160" />
+
+
+tatal time 5.5 hrs
+
+
+
+
+
 
 
 
